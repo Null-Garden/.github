@@ -1,6 +1,6 @@
 <div align="center">
 
-# NULL GARDEN
+# Null Garden
 
 Projetos orientados a alta performance, arquiteturas resilientes, ferramentas para desenvolvedores e computação científica.
 
